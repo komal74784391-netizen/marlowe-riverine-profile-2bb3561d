@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.name }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="site-title" href="{{ site.baseurl }}/">{{ site.name }}</a>
+    <p class="site-description">{{ site.description }}</p>
+  </header>
+
+  <main class="page-content">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    {% if site.footer-links.email %}<a href="mailto:{{ site.footer-links.email }}">email</a>{% endif %}
+    {% if site.footer-links.github %}<a href="https://github.com/{{ site.footer-links.github }}">github</a>{% endif %}
+  </footer>
+</body>
+</html>

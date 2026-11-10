@@ -1,0 +1,36 @@
+$base-font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+body {
+  font-family: $base-font;
+  color: #333;
+  margin: 0;
+  padding: 0 1.5rem;
+}
+
+.site-header {
+  border-bottom: 1px solid #e8e8e8;
+  padding: 1.5rem 0;
+}
+
+.site-title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  text-decoration: none;
+  color: #222;
+}
+
+.site-description {
+  color: #666;
+}
+
+.page-content {
+  max-width: 48rem;
+  margin: 0 auto;
+  padding: 2rem 0;
+}
+
+.site-footer {
+  border-top: 1px solid #e8e8e8;
+  padding: 1rem 0;
+  color: #666;
+}

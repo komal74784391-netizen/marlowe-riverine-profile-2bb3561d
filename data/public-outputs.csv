@@ -1,0 +1,75 @@
+output_id,program_code,reporting_period,output_type,title,venue,disclosure_status
+MRPH-P01-202602-02,P01,2026-02,conference_paper,Assessing rainfall-runoff partitioning across Lower Wexford,Hydroinformatics Conference Proceedings,Public
+MRPH-P01-202602-04,P01,2026-02,policy_brief,seasonal flow recession in the Lower Wexford catchment,Marlowe Institute Policy Brief,Public
+MRPH-P01-202603-01,P01,2026-03,journal_article,reservoir operation rules in the Northgate catchment,Water Resources Research,Public
+MRPH-P01-202603-03,P01,2026-03,dataset_release,seasonal flow recession in the Marlowe Delta catchment,Marlowe Institute Data Repository,Public
+MRPH-P01-202603-04,P01,2026-03,policy_brief,Assessing reservoir operation rules across Marlowe Delta,Marlowe Institute Policy Brief,Public
+MRPH-P01-202603-05,P01,2026-03,preprint,floodplain connectivity in the Kestrel Bay catchment,EarthArXiv,Public
+MRPH-P01-202605-01,P01,2026-05,journal_article,Modelling baseflow separation for Lower Wexford,Hydrological Processes,Public
+MRPH-P01-202605-02,P01,2026-05,conference_paper,rainfall-runoff partitioning in the Silverbrook catchment,World Water Congress Proceedings,Public
+MRPH-P01-202605-05,P01,2026-05,preprint,A field study of baseflow separation in Kestrel Bay,EarthArXiv,Public
+MRPH-P01-202606-01,P01,2026-06,journal_article,Assessing reservoir operation rules across Northgate,Water Resources Research,Public
+MRPH-P02-202601-01,P02,2026-01,journal_article,Assessing microplastic retention across Marlowe Delta,Journal of Hydrology,Public
+MRPH-P02-202601-05,P02,2026-01,preprint,metal mobilisation in the Cinder Valley catchment,SSRN,Public
+MRPH-P02-202602-02,P02,2026-02,conference_paper,Modelling phosphorus retention for Lower Wexford,Proceedings of the International River Symposium,Public
+MRPH-P02-202602-04,P02,2026-02,policy_brief,Modelling metal mobilisation for Northgate,Marlowe Policy Brief Series,Public
+MRPH-P02-202603-02,P02,2026-03,conference_paper,Assessing pesticide attenuation across Northgate,World Water Congress Proceedings,Public
+MRPH-P02-202603-05,P02,2026-03,preprint,pesticide attenuation: evidence from Kestrel Bay,SSRN,Public
+MRPH-P02-202604-02,P02,2026-04,conference_paper,microplastic retention: evidence from Marlowe Delta,Hydroinformatics Conference Proceedings,Public
+MRPH-P02-202605-01,P02,2026-05,journal_article,metal mobilisation in the Northgate catchment,Hydrological Processes,Public
+MRPH-P02-202605-03,P02,2026-05,dataset_release,A field study of microplastic retention in Cinder Valley,Marlowe Open Data Portal,Public
+MRPH-P02-202606-01,P02,2026-06,journal_article,Assessing pesticide attenuation across Marlowe Delta,Journal of Hydrology,Public
+MRPH-P02-202606-02,P02,2026-06,conference_paper,A field study of pesticide attenuation in Cinder Valley,Hydroinformatics Conference Proceedings,Public
+MRPH-P02-202606-03,P02,2026-06,dataset_release,pesticide attenuation: evidence from Northgate,Marlowe Open Data Portal,Public
+MRPH-P02-202606-05,P02,2026-06,preprint,A field study of microplastic retention in Lower Wexford,SSRN,Public
+MRPH-P03-202601-04,P03,2026-01,policy_brief,A field study of participatory monitoring in Silverbrook,Marlowe Institute Policy Brief,Public
+MRPH-P03-202601-05,P03,2026-01,preprint,Assessing indigenous water rights across Lower Wexford,SSRN,Public
+MRPH-P03-202602-01,P03,2026-02,journal_article,water allocation conflicts: evidence from Northgate,Water Research,Public
+MRPH-P03-202602-05,P03,2026-02,preprint,catchment partnerships in the Lower Wexford catchment,SSRN,Public
+MRPH-P03-202603-02,P03,2026-03,conference_paper,Modelling water allocation conflicts for Marlowe Delta,Hydroinformatics Conference Proceedings,Public
+MRPH-P03-202603-05,P03,2026-03,preprint,participatory monitoring in the Northgate catchment,EarthArXiv,Public
+MRPH-P03-202604-03,P03,2026-04,dataset_release,Assessing tariff equity across Cinder Valley,Marlowe Institute Data Repository,Public
+MRPH-P03-202604-04,P03,2026-04,policy_brief,tariff equity: evidence from Cinder Valley,Marlowe Institute Policy Brief,Public
+MRPH-P03-202606-03,P03,2026-06,dataset_release,A field study of tariff equity in Cinder Valley,Marlowe Open Data Portal,Public
+MRPH-P04-202601-01,P04,2026-01,journal_article,A field study of sensor calibration drift in Northgate,Water Research,Public
+MRPH-P04-202601-02,P04,2026-01,conference_paper,in-situ nitrate probes in the Silverbrook catchment,World Water Congress Proceedings,Public
+MRPH-P04-202601-04,P04,2026-01,policy_brief,Modelling sensor calibration drift for Cinder Valley,Marlowe Institute Policy Brief,Public
+MRPH-P04-202601-05,P04,2026-01,preprint,Modelling citizen sensor networks for Silverbrook,EarthArXiv,Public
+MRPH-P04-202602-03,P04,2026-02,dataset_release,Modelling low-cost turbidity sensors for Marlowe Delta,Marlowe Institute Data Repository,Public
+MRPH-P04-202602-05,P04,2026-02,preprint,citizen sensor networks in the Silverbrook catchment,SSRN,Public
+MRPH-P04-202603-01,P04,2026-03,journal_article,Modelling remote sensing of chlorophyll for Marlowe Delta,Water Research,Public
+MRPH-P04-202604-01,P04,2026-04,journal_article,Assessing sensor calibration drift across Cinder Valley,Hydrological Processes,Public
+MRPH-P04-202604-03,P04,2026-04,dataset_release,low-cost turbidity sensors in the Silverbrook catchment,Marlowe Institute Data Repository,Public
+MRPH-P04-202604-05,P04,2026-04,preprint,A field study of citizen sensor networks in Marlowe Delta,EarthArXiv,Public
+MRPH-P04-202605-01,P04,2026-05,journal_article,citizen sensor networks: evidence from Marlowe Delta,Journal of Hydrology,Public
+MRPH-P04-202605-02,P04,2026-05,conference_paper,Modelling sensor calibration drift for Lower Wexford,Hydroinformatics Conference Proceedings,Public
+MRPH-P04-202606-03,P04,2026-06,dataset_release,Assessing remote sensing of chlorophyll across Silverbrook,Marlowe Open Data Portal,Public
+MRPH-P05-202601-01,P05,2026-01,journal_article,A field study of snowmelt timing in Northgate,Water Research,Public
+MRPH-P05-202601-02,P05,2026-01,conference_paper,drought propagation: evidence from Cinder Valley,Hydroinformatics Conference Proceedings,Public
+MRPH-P05-202601-03,P05,2026-01,dataset_release,Modelling extreme rainfall intensification for Silverbrook,Marlowe Institute Data Repository,Public
+MRPH-P05-202603-01,P05,2026-03,journal_article,extreme rainfall intensification in the Northgate catchment,Science of the Total Environment,Public
+MRPH-P05-202603-03,P05,2026-03,dataset_release,Modelling evapotranspiration trends for Silverbrook,Marlowe Institute Data Repository,Public
+MRPH-P05-202603-04,P05,2026-03,policy_brief,Modelling evapotranspiration trends for Marlowe Delta,Marlowe Institute Policy Brief,Public
+MRPH-P05-202604-02,P05,2026-04,conference_paper,A field study of carbon export under warming in Marlowe Delta,Proceedings of the International River Symposium,Public
+MRPH-P05-202604-03,P05,2026-04,dataset_release,carbon export under warming in the Northgate catchment,Marlowe Institute Data Repository,Public
+MRPH-P05-202604-04,P05,2026-04,policy_brief,A field study of extreme rainfall intensification in Lower Wexford,Marlowe Institute Policy Brief,Public
+MRPH-P05-202604-05,P05,2026-04,preprint,A field study of extreme rainfall intensification in Kestrel Bay,SSRN,Public
+MRPH-P05-202605-02,P05,2026-05,conference_paper,Assessing snowmelt timing across Silverbrook,World Water Congress Proceedings,Public
+MRPH-P05-202605-04,P05,2026-05,policy_brief,snowmelt timing: evidence from Lower Wexford,Marlowe Institute Policy Brief,Public
+MRPH-P05-202606-01,P05,2026-06,journal_article,A field study of extreme rainfall intensification in Cinder Valley,Water Resources Research,Public
+MRPH-P05-202606-02,P05,2026-06,conference_paper,A field study of carbon export under warming in Kestrel Bay,Proceedings of the International River Symposium,Public
+MRPH-P05-202606-03,P05,2026-06,dataset_release,extreme rainfall intensification: evidence from Cinder Valley,Marlowe Institute Data Repository,Public
+MRPH-P05-202606-04,P05,2026-06,policy_brief,extreme rainfall intensification in the Marlowe Delta catchment,Marlowe Institute Policy Brief,Public
+MRPH-P05-202606-05,P05,2026-06,preprint,Modelling snowmelt timing for Cinder Valley,EarthArXiv,Public
+MRPH-P06-202601-01,P06,2026-01,journal_article,antimicrobial resistance genes: evidence from Northgate,Science of the Total Environment,Public
+MRPH-P06-202601-02,P06,2026-01,conference_paper,A field study of cyanotoxin exposure in Cinder Valley,EGU General Assembly Conference Abstracts,Public
+MRPH-P06-202601-03,P06,2026-01,dataset_release,A field study of faecal indicator bacteria in Lower Wexford,Marlowe Open Data Portal,Public
+MRPH-P06-202602-02,P06,2026-02,conference_paper,pathogen die-off rates: evidence from Lower Wexford,Hydroinformatics Conference Proceedings,Public
+MRPH-P06-202602-03,P06,2026-02,dataset_release,faecal indicator bacteria: evidence from Northgate,Marlowe Institute Data Repository,Public
+MRPH-P06-202602-04,P06,2026-02,policy_brief,antimicrobial resistance genes in the Silverbrook catchment,Marlowe Policy Brief Series,Public
+MRPH-P06-202602-05,P06,2026-02,preprint,Assessing antimicrobial resistance genes across Kestrel Bay,EarthArXiv,Public
+MRPH-P06-202603-03,P06,2026-03,dataset_release,Modelling pathogen die-off rates for Silverbrook,Marlowe Institute Data Repository,Public
+MRPH-P06-202604-02,P06,2026-04,conference_paper,Assessing sanitary risk assessment across Kestrel Bay,EGU General Assembly Conference Abstracts,Public
+MRPH-P06-202604-04,P06,2026-04,policy_brief,Assessing faecal indicator bacteria across Marlowe Delta,Marlowe Institute Policy Brief,Public
+MRPH-P06-202605-01,P06,2026-05,journal_article,Assessing pathogen die-off rates across Lower Wexford,Science of the Total Environment,Public
+MRPH-P06-202606-03,P06,2026-06,dataset_release,A field study of sanitary risk assessment in Cinder Valley,Marlowe Institute Data Repository,Public
